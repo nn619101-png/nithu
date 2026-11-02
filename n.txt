@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 IS
 mycem
-=======
 Is
->>>>>>> e7c3877 (New Added Command)
